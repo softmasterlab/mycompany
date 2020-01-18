@@ -1,0 +1,28 @@
+#table1 {
+    width: 75%;
+}
+
+#table2 {
+    width: 100%;
+}
+
+th {
+    text-align: center;
+}
+
+th,
+td {
+    padding: 5px 10px;
+}
+
+.cen {
+    text-align: center;
+}
+
+.form1 {
+    width: 40%;
+}
+
+.submit {
+    width: 150px;
+}
